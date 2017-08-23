@@ -1,0 +1,14 @@
+# Mac.
+.DS_STORE
+._*
+
+# Node.
+node_modules
+npm-debug.log
+
+# cache
+.sass-cache
+.gulp-scss-cache
+
+# Build
+dist
