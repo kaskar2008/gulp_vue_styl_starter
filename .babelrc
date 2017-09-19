@@ -1,4 +1,7 @@
 {
-  "presets": ["es2015", "stage-3"],
-  "plugins": ["transform-runtime"]
+  "presets": ["env"],
+  "plugins": [
+    "transform-runtime",
+    "transform-object-rest-spread"
+  ]
 }
